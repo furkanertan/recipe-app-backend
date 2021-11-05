@@ -1,0 +1,62 @@
+{
+    "1": {
+        "id": "1",
+        "name": "Vichyssoise",
+        "author": "Marie Claude",
+        "rating": 4
+    },
+    "2": {
+        "id": "2",
+        "name": "Beef Wellington",
+        "author": "Robert Dinklage",
+        "rating": 5
+    },
+    "3": {
+        "id": "3",
+        "name": "Caesar Salad",
+        "author": "Hans Peter",
+        "rating": 2
+    },
+    "4": {
+        "id": "4",
+        "name": "Duck l'Orange",
+        "author": "Daniel Frederick",
+        "rating": 3
+    },
+    "5": {
+        "id": "5",
+        "name": "Strawberries with Cream",
+        "author": "Hans Peter",
+        "rating": 1
+    },
+    "6": {
+        "id": "6",
+        "name": "Trifle",
+        "author": "Donald McDouglas",
+        "rating": 3
+    },
+    "7": {
+        "id": "7",
+        "name": "Grilled Mushrooms with Cheese Topping",
+        "author": "Laura Engel",
+        "rating": 4
+    },
+    "8": {
+        "id": "8",
+        "name": "Lamb Chops with Roast Potatoes",
+        "author": "Julien Oliver",
+        "rating": 5
+    },
+    "9": {
+        "id": "9",
+        "name": "Black Pudding",
+        "author": "Penelope Kennedy",
+        "rating": 3
+    },
+    "10": {
+        "id": "10",
+        "name": "Homemade Yorkshire Pudding",
+        "author": "Teddy Dunphy",
+        "rating": 5
+    }
+}
